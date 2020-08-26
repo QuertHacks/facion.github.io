@@ -1,0 +1,20 @@
+body
+
+{
+	background-color: yellow;
+}
+
+#Titre
+
+{
+	text-align: center;
+}
+
+#img
+{
+		width: 800px;
+		margin:0 auto;
+		background-color: yellow;
+		text-align: center;
+		align-content: center;
+}
